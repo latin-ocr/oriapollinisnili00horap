@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./oriapollinisnili00horap_0232.png"; bbox 0 0 1627 2839; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 355 692 1339 764">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 180 676 1339 764">
+     <span class='ocr_line' id='line_1_1' title="bbox 355 692 1339 764; baseline 0.003 -2.547"><span class='ocrx_word' id='word_1_1' title='bbox 355 759 378 763; x_wconf 70' lang='grc'><em>,,</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 444 706 572 761; x_wconf 68' lang='grc' dir='ltr'><em>ΑΒ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 628 703 1151 764; x_wconf 75' lang='lat' dir='ltr'><strong>LECTOREM.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1232 753 1236 755; x_wconf 11' lang='grc' dir='ltr'><strong>Α</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1335 692 1339 695; x_wconf 79' lang='grc'><em>“</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 245 804 1322 1135">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 245 804 1322 1135">
+     <span class='ocr_line' id='line_1_2' title="bbox 351 804 1213 866; baseline 0.001 -1"><span class='ocrx_word' id='word_1_6' title='bbox 351 805 356 808; x_wconf 74' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 389 810 602 865; x_wconf 48' lang='lat' dir='ltr'><em>‘litteram</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 616 808 793 865; x_wconf 76' lang='lat' dir='ltr'><em>vocitas</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 805 811 978 866; x_wconf 62' lang='lat' dir='ltr'><em>Pob‘ma</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 991 804 1213 866; x_wconf 75' lang='lat' dir='ltr'><em>mutum?</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 471 883 1322 968; baseline 0.005 -23"><span class='ocrx_word' id='word_1_11' title='bbox 471 892 547 945; x_wconf 85' lang='lat' dir='ltr'><em>Sit</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 551 892 742 964; x_wconf 61' lang='lat' dir='ltr'><em>pistura</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 752 891 965 964; x_wconf 82' lang='lat' dir='ltr'><em>loquens,</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 973 895 1142 948; x_wconf 82' lang='lat' dir='ltr'><em>Po&#39;e&#39;ma</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1154 883 1322 968; x_wconf 56' lang='lat' dir='ltr'><em>ruffa&amp;</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 245 969 1142 1049; baseline 0.001 -21"><span class='ocrx_word' id='word_1_16' title='bbox 245 976 250 987; x_wconf 62' lang='lat'>‘</span> <span class='ocrx_word' id='word_1_17' title='bbox 294 969 1142 1049; x_wconf 62' lang='lat' dir='ltr'><em>Pingit,quaeloquiturPolitafflic‘tor:</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 380 1049 1285 1135; baseline -0.001 -22"><span class='ocrx_word' id='word_1_18' title='bbox 380 1049 539 1128; x_wconf 60' lang='lat' dir='ltr'><em>Vfim</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 553 1049 875 1132; x_wconf 76' lang='lat' dir='ltr'><em>hicpafiit,&amp;</em></span> <span class='ocrx_word' id='word_1_20' title='bbox 884 1055 1117 1135; x_wconf 72' lang='lat' dir='ltr'><em>illepafiit</em></span> <span class='ocrx_word' id='word_1_21' title='bbox 1127 1072 1285 1115; x_wconf 60' lang='lat' dir='ltr'><em>aurea</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
